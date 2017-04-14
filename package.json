@@ -1,0 +1,18 @@
+{
+  "name": "javascript-time-greeting",
+  "version": "1.0.0",
+  "description": "this is an example how to make greeting depending on time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["greeting", "node", "time", "moment", "hour", "javascript"],
+  "author": "Afrijal Dzuhri",
+  "url": "https://github.com/afrijaldz/javascript-time-greeting.git",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "moment": "^2.18.1"
+  }
+}
